@@ -1,4 +1,4 @@
-# Exploring Data Viz and Data Science libraries using Python
+# Exploration of Python Libraries for Data Visualization and Data Science
 
 By developing dashboards based on feedback data from Tinder and TikTok, I delved deeper into the topic of sentiment analysis using TextBlob. 
 Feel free to explore the dashboards and read about my Data Viz process in which I share my learning experiences and journey. 
