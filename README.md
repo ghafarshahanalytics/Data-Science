@@ -1,7 +1,6 @@
 # Exploration of Python Libraries for Data Visualization and Data Science
 
-By developing dashboards based on feedback data from Tinder and TikTok, I delved deeper into the topic of sentiment analysis using TextBlob. 
-Feel free to explore the dashboards and read about my Data Viz process in which I share my learning experiences and journey. 
+By developing dashboards based on feedback data from Tinder and TikTok, I delved deeper into the topic of sentiment and emotion analysis using TextBlob and text2emotion. Feel free to explore the dashboards and read about my Data Viz process in which I share my learning experiences and journey. 
 
 The links are provided below.
 
